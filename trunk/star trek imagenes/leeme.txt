@@ -1,0 +1,2 @@
+Los nombres de las imágenes no deben tener más de 8 caracteres.
+use an image editing tool and crop your image to no larger than 160 pixels high and 128 pixels wide. Save it as a 24-bit color BMP file - it must be 24-bit color format to work, even if it was originally a 16-bit color image - becaue of the way BMPs are stored and displayed!
