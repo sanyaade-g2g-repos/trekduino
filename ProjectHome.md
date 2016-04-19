@@ -1,0 +1,3 @@
+In this project i will customize a Star Trek Enterprise model with ambiental white leds, red led for red alarm, RGB led for engines, red and green leds for position lights, red led for deflector, real laser for laser ;-) , red led for photon torpedo, voice recognice with easyVR, sounds, temperature  and humidity sensor, TFT display to show images and messages, PIR sensor to detect movements.
+
+More information: http://proyectosantonio.blogspot.com.es/2013/02/enterprise-trekduino.html
